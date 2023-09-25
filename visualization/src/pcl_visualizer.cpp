@@ -106,6 +106,7 @@
 #include <boost/algorithm/string.hpp> // for split
 #include <pcl/common/utils.h> // pcl::utils::ignore
 #include <pcl/console/parse.h>
+#include <thread>
 
 #include <thread>
 
